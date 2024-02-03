@@ -4,15 +4,15 @@ This repository contains a series of assignments completed for the course "Stati
 
 ## Assignments Overview
 
-### [First Assignment: Linear Regression/Other Regression Models](Assignment1/)
+### First Assignment: Linear Regression/Other Regression Models
 
 Explore linear regression and other regression models in this assignment.
 
-### [Second Assignment: Classification/SVM/Decision Trees/Neural Network/Clustering](Assignment2/)
+### Second Assignment: Classification/SVM/Decision Trees/Neural Network/Clustering
 
 Dive into classification, Support Vector Machines (SVM), Decision Trees, Neural Networks, and Clustering techniques in the second assignment.
 
-### [Third Assignment: Time Series](Assignment3/)
+### Third Assignment: Time Series
 
 Delve into the realm of Time Series analysis in the third assignment.
 
