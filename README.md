@@ -8,12 +8,11 @@ This repository contains a series of assignments completed for the course "Stati
 
 Explore linear regression and other regression models in this assignment.
 
-### Second Assignment: Classification/SVM/Decision Trees/Neural Network/Clustering
+### Second Assignment: Classification/SVM/Decision Trees/Neural Network
 
-Dive into classification, Support Vector Machines (SVM), Decision Trees, Neural Networks, and Clustering techniques in the second assignment.
+Explore classification, Support Vector Machines (SVM), Decision Trees, and Neural Networks in the second assignment.
 
 ### Third Assignment: Time Series
 
-Delve into the realm of Time Series analysis in the third assignment.
+Exploire Clustering and Time Series analysis in the third assignment.
 
-Feel free to explore each assignment folder for detailed documentation, code, and analysis.
