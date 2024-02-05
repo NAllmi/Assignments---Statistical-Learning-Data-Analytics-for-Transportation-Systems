@@ -12,7 +12,7 @@ Explore linear regression and other regression models in this assignment.
 
 Explore classification, Support Vector Machines (SVM), Decision Trees, and Neural Networks in the second assignment.
 
-### Third Assignment: Time Series
+### Third Assignment: Time Series/Clustering
 
 Exploire Clustering and Time Series analysis in the third assignment.
 
